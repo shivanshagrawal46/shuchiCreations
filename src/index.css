@@ -1,0 +1,13 @@
+/* Base styles - keep minimal as App.css has everything */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  width: 100%;
+}
